@@ -1,4 +1,4 @@
-### Exercício 05: Controle do Elevador
+### Exercício 06: Controle do Elevador
 Elevadores são comuns em prédios. Para sua automação é importante conhecer o andar em que o elevador está, a quantidade de andares do prédio, a capacidade de pessoas suportada e a contagem de pessoas no elevador.
 #### Regras
 As ações típicas de um elevador são subir e descer.
